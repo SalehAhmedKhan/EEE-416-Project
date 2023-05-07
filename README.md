@@ -2,6 +2,7 @@
 
 Source Code for IoT Based Bangla Clock for EEE 416 Lab Project, BUET - Dhaka, Bangladesh.
 Copying and Reuse may be done with Permission.
+Video Demonstration: https://youtu.be/6aywOkfDy6A 
 
 VERSION 1.0 - 14/Jan/2023 - edited and maintained by Saleh Ahmed Khan, Mail: salehahmedkhan1998@gmail.com.
 
